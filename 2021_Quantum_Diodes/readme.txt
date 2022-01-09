@@ -1,1 +1,0 @@
-Unpublished research on quantum rectifiers and diodes
